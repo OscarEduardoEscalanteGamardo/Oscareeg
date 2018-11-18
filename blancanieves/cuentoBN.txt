@@ -11,3 +11,5 @@ Mas cambios al archivo pero desde remoto en la nube web
 
 
 Agregamos mas texto para probar con github de escritorio
+
+Para bajar las actualizaciones echar desde el WEBBBBBBBBBBBBBBBBBBBBB
